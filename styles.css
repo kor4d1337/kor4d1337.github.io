@@ -1,3 +1,9 @@
 body {
  background-color: blue;
+ font-family: fairfax;
+}
+
+@font-face {
+  font-family: 'fairfax';
+  src: url('font/FairfaxHD.ttf'); 
 }
