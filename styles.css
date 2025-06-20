@@ -1,7 +1,10 @@
 body {
  background-color: purple;
- text-color: white;
  font-family: fairfax;
+}
+
+h1 {
+ text-align: center;
 }
 
 @font-face {
