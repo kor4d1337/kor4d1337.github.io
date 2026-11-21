@@ -18,7 +18,7 @@
 
 .biguttext {
  font-size: 120px;
- font-family: '8bitoperator JVE Regular';
+ font-family: system-ui;
  text-align: center;
  margin: 0 auto;
 }
