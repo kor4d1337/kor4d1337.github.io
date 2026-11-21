@@ -1,9 +1,11 @@
 body {
- background-color: purple;
+ background-color: #414f31;
+ color: #8a9757;
  font-family: finger paint;
 }
 
-h1 {
+.bigeviltext {
+ font-size: 120px;
  text-align: center;
  margin: 0 auto;
 }
