@@ -7,8 +7,3 @@ h1 {
  text-align: center;
  margin: 0 auto;
 }
-
-@font-face {
-  font-family: 'fairfax';
-  src: url('font/FairfaxHD.ttf'); 
-}
