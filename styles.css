@@ -1,4 +1,4 @@
-body {
+.fp {
  background-color: #414f31;
  color: #8a9757;
  font-family: finger paint;
@@ -8,4 +8,22 @@ body {
  font-size: 120px;
  text-align: center;
  margin: 0 auto;
+}
+
+.biguttext {
+ font-size: 120px;
+ font-family: '8bitoperator JVE Regular';
+ text-align: center;
+ margin: 0 auto;
+}
+
+@font-face {
+    font-family: '8bitoperator JVE Regular';
+    src: url('8bitoperator_jve.eot');
+    src: url('8bitoperator_jve.eot?#iefix') format('embedded-opentype'),
+         url('8bitoperator_jve.woff') format('woff'),
+         url('8bitoperator_jve.ttf') format('truetype'),
+         url('8bitoperator_jve.svg#8bitoperator JVE Regular') format('svg');
+    font-weight: 800;
+    font-style: normal;
 }
